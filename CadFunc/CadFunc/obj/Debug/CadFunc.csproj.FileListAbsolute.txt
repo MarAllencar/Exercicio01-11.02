@@ -5,3 +5,10 @@ C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Exercicio-01\CadFunc\C
 C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Exercicio-01\CadFunc\CadFunc\bin\Debug\CadFunc.pdb
 C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Exercicio-01\CadFunc\CadFunc\obj\Debug\CadFunc.exe
 C:\Users\SERGI\Desktop\Mariane Alencar\projetos\aula11.02\Exercicio-01\CadFunc\CadFunc\obj\Debug\CadFunc.pdb
+C:\Exercicio01\CadFunc\CadFunc\bin\Debug\CadFunc.exe.config
+C:\Exercicio01\CadFunc\CadFunc\bin\Debug\CadFunc.exe
+C:\Exercicio01\CadFunc\CadFunc\bin\Debug\CadFunc.pdb
+C:\Exercicio01\CadFunc\CadFunc\obj\Debug\CadFunc.csprojAssemblyReference.cache
+C:\Exercicio01\CadFunc\CadFunc\obj\Debug\CadFunc.csproj.CoreCompileInputs.cache
+C:\Exercicio01\CadFunc\CadFunc\obj\Debug\CadFunc.exe
+C:\Exercicio01\CadFunc\CadFunc\obj\Debug\CadFunc.pdb

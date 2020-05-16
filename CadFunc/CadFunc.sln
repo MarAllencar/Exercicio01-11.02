@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadFunc", "CadFunc\CadFunc.csproj", "{313F3016-6D5B-4DA8-9F16-F7A85648F267}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadFundFormatado", "CadFuncFormatado\CadFundFormatado\CadFundFormatado.csproj", "{D6A68A1C-7B3F-4568-89E6-DFFF82865A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{313F3016-6D5B-4DA8-9F16-F7A85648F267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{313F3016-6D5B-4DA8-9F16-F7A85648F267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{313F3016-6D5B-4DA8-9F16-F7A85648F267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6A68A1C-7B3F-4568-89E6-DFFF82865A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6A68A1C-7B3F-4568-89E6-DFFF82865A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6A68A1C-7B3F-4568-89E6-DFFF82865A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6A68A1C-7B3F-4568-89E6-DFFF82865A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
